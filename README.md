@@ -6,4 +6,4 @@
 **DURATION**: 4WEEKS
 **MENTOR**: NEELA SANTHOSH KUMAR
 # DESCRIPTION
-I have taken created a generative text which will take the prompt and gives generates text according to the user prompt.
+I have created a generative text which will take the prompt and gives generates text according to the user prompt.
